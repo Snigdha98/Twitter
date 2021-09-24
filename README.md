@@ -20,6 +20,7 @@ The following **bonus** features are implemented:
 - [X] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
-
 Here's a walkthrough of implemented user stories:
+
+
 <img src=images/TwitterPart1.gif width=250><br>
